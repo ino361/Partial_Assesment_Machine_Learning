@@ -2,7 +2,7 @@
 
 MSc Artificial Intelligence — Introduction to Artificial Intelligence (Practical skills assessment)
 
-**Author:** Inancan Cagimni (Q1140517)
+**Author:** Inancan Cagimni 
 **Module lecturer:** Dr. Lawrence Ibeh
 
 ## What this repository contains
